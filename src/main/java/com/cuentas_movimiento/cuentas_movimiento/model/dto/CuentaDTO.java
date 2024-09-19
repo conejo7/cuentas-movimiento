@@ -1,6 +1,6 @@
 package com.cuentas_movimiento.cuentas_movimiento.model.dto;
 
-import lombok.Data;
+
 import lombok.Getter;
 import lombok.Setter;
 

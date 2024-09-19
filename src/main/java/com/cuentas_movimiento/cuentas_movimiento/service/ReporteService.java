@@ -8,13 +8,13 @@ import com.cuentas_movimiento.cuentas_movimiento.model.dto.MovimientoDTO;
 import com.cuentas_movimiento.cuentas_movimiento.model.dto.ReporteDTO;
 import com.cuentas_movimiento.cuentas_movimiento.model.pojo.Account;
 import com.cuentas_movimiento.cuentas_movimiento.model.pojo.Movement;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
-import java.util.List;
+
 import java.util.Optional;
 
 @Service
